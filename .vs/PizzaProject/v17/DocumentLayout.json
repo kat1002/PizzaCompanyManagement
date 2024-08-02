@@ -1,0 +1,1506 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Study\\FPT\\PRN212\\PizzaProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\viewmodels\\confirmorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\confirmorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\confirmorder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\confirmorder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\confirmorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\confirmorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\viewmodels\\placeorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\placeorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\placeorder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\placeorder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\placeorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\placeorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68828A1-A1D6-4F5F-867A-3CE31688C5E6}|BusinessObjects\\BusinessObjects.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\businessobjects\\pizzaorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68828A1-A1D6-4F5F-867A-3CE31688C5E6}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\pizzaorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68828A1-A1D6-4F5F-867A-3CE31688C5E6}|BusinessObjects\\BusinessObjects.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\businessobjects\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68828A1-A1D6-4F5F-867A-3CE31688C5E6}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68828A1-A1D6-4F5F-867A-3CE31688C5E6}|BusinessObjects\\BusinessObjects.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\businessobjects\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68828A1-A1D6-4F5F-867A-3CE31688C5E6}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68828A1-A1D6-4F5F-867A-3CE31688C5E6}|BusinessObjects\\BusinessObjects.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\businessobjects\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68828A1-A1D6-4F5F-867A-3CE31688C5E6}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68828A1-A1D6-4F5F-867A-3CE31688C5E6}|BusinessObjects\\BusinessObjects.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\businessobjects\\side.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68828A1-A1D6-4F5F-867A-3CE31688C5E6}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\side.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\utilities\\pizzadescriptionconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\utilities\\pizzadescriptionconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\viewmodels\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\productlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\productlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\orderlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\orderlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\productlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\productlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\viewmodels\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0504677A-15CB-4A9E-B41B-6B7A7E3CDD90}|DataAccessLayer\\DataAccessLayer.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\dataaccesslayer\\sidedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0504677A-15CB-4A9E-B41B-6B7A7E3CDD90}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\sidedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\viewmodels\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\viewmodels\\reportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\reportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\viewmodels\\userlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\userlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\taola\\AppData\\Local\\Temp\\.vsdbgsrc\\843c6895589d1d09a2a13eb4a09825b2dc329153df70c0abf47d0f8bb8cb7447\\WpfXamlLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\viewmodels\\orderlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\orderlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\viewmodels\\adminwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\adminwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\taola\\AppData\\Local\\Temp\\.vsdbgsrc\\811f0c1102ba7a3d32ee827d0bb52f1af2ec958c7f3fb7abe7c05f601195e6c8\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0504677A-15CB-4A9E-B41B-6B7A7E3CDD90}|DataAccessLayer\\DataAccessLayer.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0504677A-15CB-4A9E-B41B-6B7A7E3CDD90}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CB7EC5-AC65-4CC2-BF03-A6B99494F3BA}|Repositories\\Repositories.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\repositories\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CB7EC5-AC65-4CC2-BF03-A6B99494F3BA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9309B248-779D-4A1C-A634-B0AB4B3BB86C}|Services\\Services.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9309B248-779D-4A1C-A634-B0AB4B3BB86C}|Services\\Services.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0504677A-15CB-4A9E-B41B-6B7A7E3CDD90}|DataAccessLayer\\DataAccessLayer.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\dataaccesslayer\\pizzaordersystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0504677A-15CB-4A9E-B41B-6B7A7E3CDD90}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\pizzaordersystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68828A1-A1D6-4F5F-867A-3CE31688C5E6}|BusinessObjects\\BusinessObjects.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68828A1-A1D6-4F5F-867A-3CE31688C5E6}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\userlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\userlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68828A1-A1D6-4F5F-867A-3CE31688C5E6}|BusinessObjects\\BusinessObjects.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\businessobjects\\sideorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68828A1-A1D6-4F5F-867A-3CE31688C5E6}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\sideorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\orderlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\orderlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\customcontrols\\bindablepasswordbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\customcontrols\\bindablepasswordbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\customcontrols\\bindablepasswordbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\customcontrols\\bindablepasswordbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\userprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\userprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\report.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\report.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\report.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\report.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\viewmodels\\orderdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\orderdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\userlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\userlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\services\\currentsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\services\\currentsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\orderdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\orderdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\inventory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\inventory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68828A1-A1D6-4F5F-867A-3CE31688C5E6}|BusinessObjects\\BusinessObjects.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\businessobjects\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68828A1-A1D6-4F5F-867A-3CE31688C5E6}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68828A1-A1D6-4F5F-867A-3CE31688C5E6}|BusinessObjects\\BusinessObjects.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\businessobjects\\drinkorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68828A1-A1D6-4F5F-867A-3CE31688C5E6}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\drinkorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68828A1-A1D6-4F5F-867A-3CE31688C5E6}|BusinessObjects\\BusinessObjects.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\businessobjects\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68828A1-A1D6-4F5F-867A-3CE31688C5E6}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68828A1-A1D6-4F5F-867A-3CE31688C5E6}|BusinessObjects\\BusinessObjects.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\businessobjects\\crust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68828A1-A1D6-4F5F-867A-3CE31688C5E6}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\crust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\views\\orderdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\views\\orderdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\obj\\Debug\\net8.0-windows\\Views\\OrderList.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WPFApp\\obj\\Debug\\net8.0-windows\\Views\\OrderList.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9309B248-779D-4A1C-A634-B0AB4B3BB86C}|Services\\Services.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\services\\sizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9309B248-779D-4A1C-A634-B0AB4B3BB86C}|Services\\Services.csproj|solutionrelative:services\\sizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9309B248-779D-4A1C-A634-B0AB4B3BB86C}|Services\\Services.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\services\\sideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9309B248-779D-4A1C-A634-B0AB4B3BB86C}|Services\\Services.csproj|solutionrelative:services\\sideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9309B248-779D-4A1C-A634-B0AB4B3BB86C}|Services\\Services.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9309B248-779D-4A1C-A634-B0AB4B3BB86C}|Services\\Services.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9309B248-779D-4A1C-A634-B0AB4B3BB86C}|Services\\Services.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\services\\drinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9309B248-779D-4A1C-A634-B0AB4B3BB86C}|Services\\Services.csproj|solutionrelative:services\\drinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9309B248-779D-4A1C-A634-B0AB4B3BB86C}|Services\\Services.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\services\\crustservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9309B248-779D-4A1C-A634-B0AB4B3BB86C}|Services\\Services.csproj|solutionrelative:services\\crustservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0504677A-15CB-4A9E-B41B-6B7A7E3CDD90}|DataAccessLayer\\DataAccessLayer.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\dataaccesslayer\\sizedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0504677A-15CB-4A9E-B41B-6B7A7E3CDD90}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\sizedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CB7EC5-AC65-4CC2-BF03-A6B99494F3BA}|Repositories\\Repositories.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\repositories\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CB7EC5-AC65-4CC2-BF03-A6B99494F3BA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0504677A-15CB-4A9E-B41B-6B7A7E3CDD90}|DataAccessLayer\\DataAccessLayer.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\dataaccesslayer\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0504677A-15CB-4A9E-B41B-6B7A7E3CDD90}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CB7EC5-AC65-4CC2-BF03-A6B99494F3BA}|Repositories\\Repositories.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\repositories\\drinkrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CB7EC5-AC65-4CC2-BF03-A6B99494F3BA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\drinkrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CB7EC5-AC65-4CC2-BF03-A6B99494F3BA}|Repositories\\Repositories.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\repositories\\sizerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CB7EC5-AC65-4CC2-BF03-A6B99494F3BA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\sizerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CB7EC5-AC65-4CC2-BF03-A6B99494F3BA}|Repositories\\Repositories.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\repositories\\crustrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CB7EC5-AC65-4CC2-BF03-A6B99494F3BA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\crustrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CB7EC5-AC65-4CC2-BF03-A6B99494F3BA}|Repositories\\Repositories.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\repositories\\siderepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CB7EC5-AC65-4CC2-BF03-A6B99494F3BA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\siderepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\utilities\\booleantovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\utilities\\booleantovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\utilities\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\utilities\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\services\\windowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\services\\windowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\services\\iwindowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\services\\iwindowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0504677A-15CB-4A9E-B41B-6B7A7E3CDD90}|DataAccessLayer\\DataAccessLayer.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\dataaccesslayer\\toppingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0504677A-15CB-4A9E-B41B-6B7A7E3CDD90}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\toppingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9309B248-779D-4A1C-A634-B0AB4B3BB86C}|Services\\Services.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\services\\toppingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9309B248-779D-4A1C-A634-B0AB4B3BB86C}|Services\\Services.csproj|solutionrelative:services\\toppingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CB7EC5-AC65-4CC2-BF03-A6B99494F3BA}|Repositories\\Repositories.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\repositories\\toppingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CB7EC5-AC65-4CC2-BF03-A6B99494F3BA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\toppingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0504677A-15CB-4A9E-B41B-6B7A7E3CDD90}|DataAccessLayer\\DataAccessLayer.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\dataaccesslayer\\drinkdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0504677A-15CB-4A9E-B41B-6B7A7E3CDD90}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\drinkdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0504677A-15CB-4A9E-B41B-6B7A7E3CDD90}|DataAccessLayer\\DataAccessLayer.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\dataaccesslayer\\crustdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0504677A-15CB-4A9E-B41B-6B7A7E3CDD90}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\crustdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\utilities\\toppingsconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\utilities\\toppingsconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\utilities\\sizetobooleanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\utilities\\sizetobooleanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\utilities\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\utilities\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\utilities\\nulltocheckedconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\utilities\\nulltocheckedconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|e:\\study\\fpt\\prn212\\pizzaproject\\wpfapp\\viewmodels\\customerwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6EE1-1B16-42EC-A74B-D26F7394EB37}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\viewmodels\\customerwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 775,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlaceOrder.xaml",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\PlaceOrder.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\PlaceOrder.xaml",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\PlaceOrder.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\PlaceOrder.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T04:58:22.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlaceOrder.xaml.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\PlaceOrder.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\PlaceOrder.xaml.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\PlaceOrder.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\PlaceOrder.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:43:03.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlaceOrderViewModel.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\PlaceOrderViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\PlaceOrderViewModel.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\PlaceOrderViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\PlaceOrderViewModel.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAqwG4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:07:49.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfirmOrder.xaml",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\ConfirmOrder.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\ConfirmOrder.xaml",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\ConfirmOrder.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\ConfirmOrder.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T04:01:09.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfirmOrder.xaml.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\ConfirmOrder.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\ConfirmOrder.xaml.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\ConfirmOrder.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\ConfirmOrder.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:48:08.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfirmOrderViewModel.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\ConfirmOrderViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\ConfirmOrderViewModel.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\ConfirmOrderViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\ConfirmOrderViewModel.cs",
+              "ViewState": "AQIAAC4BAAAAAAAAAAAjwNEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:02:58.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerWindow.xaml",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\CustomerWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\CustomerWindow.xaml",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\CustomerWindow.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\CustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T04:01:14.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PizzaOrder.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\BusinessObjects\\PizzaOrder.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\PizzaOrder.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\BusinessObjects\\PizzaOrder.cs",
+              "RelativeToolTip": "BusinessObjects\\PizzaOrder.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwCcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:48:18.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\BusinessObjects\\Pizza.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Pizza.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\BusinessObjects\\Pizza.cs",
+              "RelativeToolTip": "BusinessObjects\\Pizza.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA0wCYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:48:16.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Topping.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\BusinessObjects\\Topping.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Topping.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\BusinessObjects\\Topping.cs",
+              "RelativeToolTip": "BusinessObjects\\Topping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:48:22.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Size.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\BusinessObjects\\Size.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Size.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\BusinessObjects\\Size.cs",
+              "RelativeToolTip": "BusinessObjects\\Size.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:48:21.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Side.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\BusinessObjects\\Side.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Side.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\BusinessObjects\\Side.cs",
+              "RelativeToolTip": "BusinessObjects\\Side.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:48:18.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductListViewModel.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\ProductListViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\ProductListViewModel.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\ProductListViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\ProductListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:00:19.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\ViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\ViewModel.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\ViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\ViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:59:21.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderList.xaml",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\OrderList.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\OrderList.xaml",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\OrderList.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\OrderList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T07:03:38.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductList.xaml.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\ProductList.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\ProductList.xaml.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\ProductList.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\ProductList.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAmwFIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:04:54.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\AdminWindow.xaml.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\AdminWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:05:08.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PizzaDescriptionConverter.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Utilities\\PizzaDescriptionConverter.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Utilities\\PizzaDescriptionConverter.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Utilities\\PizzaDescriptionConverter.cs",
+              "RelativeToolTip": "WPFApp\\Utilities\\PizzaDescriptionConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:16:35.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductList.xaml",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\ProductList.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\ProductList.xaml",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\ProductList.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\ProductList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T09:02:39.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SideDAO.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\DataAccessLayer\\SideDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\SideDAO.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\DataAccessLayer\\SideDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\SideDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:47:16.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReportViewModel.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\ReportViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\ReportViewModel.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\ReportViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\ReportViewModel.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:39:46.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProfileViewModel.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\ProfileViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\ProfileViewModel.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\ProfileViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\ProfileViewModel.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:24:05.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserListViewModel.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\UserListViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\UserListViewModel.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\UserListViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\UserListViewModel.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAIwFcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T05:02:42.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WpfXamlLoader.cs",
+              "DocumentMoniker": "C:\\Users\\taola\\AppData\\Local\\Temp\\.vsdbgsrc\\843c6895589d1d09a2a13eb4a09825b2dc329153df70c0abf47d0f8bb8cb7447\\WpfXamlLoader.cs",
+              "ToolTip": "C:\\Users\\taola\\AppData\\Local\\Temp\\.vsdbgsrc\\843c6895589d1d09a2a13eb4a09825b2dc329153df70c0abf47d0f8bb8cb7447\\WpfXamlLoader.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAswLcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:40:00.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminWindowViewModel.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\AdminWindowViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\AdminWindowViewModel.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\AdminWindowViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\AdminWindowViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:05:03.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "D:\\Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "D:\\Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAALQSAAAAAAAAAADwv7USAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-20T09:06:41.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\LoginWindow.xaml",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T03:55:52.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\taola\\AppData\\Local\\Temp\\.vsdbgsrc\\811f0c1102ba7a3d32ee827d0bb52f1af2ec958c7f3fb7abe7c05f601195e6c8\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\taola\\AppData\\Local\\Temp\\.vsdbgsrc\\811f0c1102ba7a3d32ee827d0bb52f1af2ec958c7f3fb7abe7c05f601195e6c8\\XamlReader.cs [Read Only]",
+              "ViewState": "AQIAAKYBAAAAAAAAAAAswLQBAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:37:14.544Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderListViewModel.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\OrderListViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\OrderListViewModel.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\OrderListViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\OrderListViewModel.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAwwEsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:03:02.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDAO.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CustomerDAO.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAcwIAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:46:58.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CustomerRepo.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Repositories\\CustomerRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustomerRepo.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Repositories\\CustomerRepo.cs",
+              "RelativeToolTip": "Repositories\\CustomerRepo.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAwwC0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:46:46.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAswCgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:23:49.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAcwEkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:51:09.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WPFApp\\appsettings.json",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\appsettings.json",
+              "RelativeToolTip": "WPFApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T03:41:06.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PizzaOrderSystemContext.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\DataAccessLayer\\PizzaOrderSystemContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\PizzaOrderSystemContext.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\DataAccessLayer\\PizzaOrderSystemContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\PizzaOrderSystemContext.cs",
+              "ViewState": "AQIAAOYAAAAAAAAAAAAiwAoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:41:22.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\BusinessObjects\\Customer.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Customer.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\BusinessObjects\\Customer.cs",
+              "RelativeToolTip": "BusinessObjects\\Customer.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:48:12.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserList.xaml",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\UserList.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\UserList.xaml",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\UserList.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\UserList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T03:59:37.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Dashboard.xaml",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\Dashboard.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\Dashboard.xaml",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\Dashboard.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\Dashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T03:54:50.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Dashboard.xaml.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\Dashboard.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\Dashboard.xaml.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\Dashboard.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\Dashboard.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T05:24:49.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:16:17.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SideOrder.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\BusinessObjects\\SideOrder.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\SideOrder.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\BusinessObjects\\SideOrder.cs",
+              "RelativeToolTip": "BusinessObjects\\SideOrder.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:48:19.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "OrderList.xaml.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\OrderList.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\OrderList.xaml.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\OrderList.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\OrderList.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:32:34.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BindablePasswordBox.xaml.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\CustomControls\\BindablePasswordBox.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\CustomControls\\BindablePasswordBox.xaml.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\CustomControls\\BindablePasswordBox.xaml.cs",
+              "RelativeToolTip": "WPFApp\\CustomControls\\BindablePasswordBox.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:02:21.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BindablePasswordBox.xaml",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\CustomControls\\BindablePasswordBox.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\CustomControls\\BindablePasswordBox.xaml",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\CustomControls\\BindablePasswordBox.xaml",
+              "RelativeToolTip": "WPFApp\\CustomControls\\BindablePasswordBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T04:02:18.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserProfile.xaml.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\UserProfile.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\UserProfile.xaml.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\UserProfile.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\UserProfile.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:43:15.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Report.xaml.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\Report.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\Report.xaml.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\Report.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\Report.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:46:47.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Report.xaml",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\Report.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\Report.xaml",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\Report.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\Report.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T03:59:32.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Profile.xaml",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\Profile.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\Profile.xaml",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\Profile.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\Profile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T03:59:07.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "OrderDetailViewModel.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\OrderDetailViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\OrderDetailViewModel.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\OrderDetailViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\OrderDetailViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:41:28.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Profile.xaml.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\Profile.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\Profile.xaml.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\Profile.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\Profile.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:41:48.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UserList.xaml.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\UserList.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\UserList.xaml.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\UserList.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\UserList.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T05:02:40.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UserProfile.xaml",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\UserProfile.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\UserProfile.xaml",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\UserProfile.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\UserProfile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T07:41:44.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\App.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\App.xaml",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\App.xaml",
+              "RelativeToolTip": "WPFApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T07:41:18.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CustomerWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\CustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\CustomerWindow.xaml.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\CustomerWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\CustomerWindow.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:02:04.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T03:50:16.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:58:20.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CurrentSession.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Services\\CurrentSession.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Services\\CurrentSession.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Services\\CurrentSession.cs",
+              "RelativeToolTip": "WPFApp\\Services\\CurrentSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:48:57.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "OrderDetail.xaml",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\OrderDetail.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\OrderDetail.xaml",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\OrderDetail.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\OrderDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T05:07:16.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Inventory.xaml",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\Inventory.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\Inventory.xaml",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\Inventory.xaml",
+              "RelativeToolTip": "WPFApp\\Views\\Inventory.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T05:23:22.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\BusinessObjects\\Order.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Order.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\BusinessObjects\\Order.cs",
+              "RelativeToolTip": "BusinessObjects\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:48:15.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DrinkOrder.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\BusinessObjects\\DrinkOrder.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\DrinkOrder.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\BusinessObjects\\DrinkOrder.cs",
+              "RelativeToolTip": "BusinessObjects\\DrinkOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:48:13.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Drink.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\BusinessObjects\\Drink.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Drink.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\BusinessObjects\\Drink.cs",
+              "RelativeToolTip": "BusinessObjects\\Drink.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:48:14.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Crust.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\BusinessObjects\\Crust.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Crust.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\BusinessObjects\\Crust.cs",
+              "RelativeToolTip": "BusinessObjects\\Crust.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:48:11.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "OrderDetail.xaml.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\OrderDetail.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Views\\OrderDetail.xaml.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Views\\OrderDetail.xaml.cs",
+              "RelativeToolTip": "WPFApp\\Views\\OrderDetail.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:32:49.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "OrderList.g.i.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\obj\\Debug\\net8.0-windows\\Views\\OrderList.g.i.cs",
+              "RelativeDocumentMoniker": "WPFApp\\obj\\Debug\\net8.0-windows\\Views\\OrderList.g.i.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\obj\\Debug\\net8.0-windows\\Views\\OrderList.g.i.cs",
+              "RelativeToolTip": "WPFApp\\obj\\Debug\\net8.0-windows\\Views\\OrderList.g.i.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAD4vyoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:33:47.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SizeService.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Services\\SizeService.cs",
+              "RelativeDocumentMoniker": "Services\\SizeService.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Services\\SizeService.cs",
+              "RelativeToolTip": "Services\\SizeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:39:29.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "SideService.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Services\\SideService.cs",
+              "RelativeDocumentMoniker": "Services\\SideService.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Services\\SideService.cs",
+              "RelativeToolTip": "Services\\SideService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:39:21.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "CrustService.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Services\\CrustService.cs",
+              "RelativeDocumentMoniker": "Services\\CrustService.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Services\\CrustService.cs",
+              "RelativeToolTip": "Services\\CrustService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:38:56.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "SizeDAO.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\DataAccessLayer\\SizeDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\SizeDAO.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\DataAccessLayer\\SizeDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\SizeDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:33:26.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\DataAccessLayer\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\OrderDAO.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\DataAccessLayer\\OrderDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\OrderDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:47:07.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "DrinkService.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Services\\DrinkService.cs",
+              "RelativeDocumentMoniker": "Services\\DrinkService.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Services\\DrinkService.cs",
+              "RelativeToolTip": "Services\\DrinkService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:39:11.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:39:16.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "OrderRepo.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Repositories\\OrderRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderRepo.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Repositories\\OrderRepo.cs",
+              "RelativeToolTip": "Repositories\\OrderRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:48:01.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "DrinkRepo.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Repositories\\DrinkRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\DrinkRepo.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Repositories\\DrinkRepo.cs",
+              "RelativeToolTip": "Repositories\\DrinkRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:47:59.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "SizeRepo.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Repositories\\SizeRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\SizeRepo.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Repositories\\SizeRepo.cs",
+              "RelativeToolTip": "Repositories\\SizeRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:48:07.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "CrustRepo.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Repositories\\CrustRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\CrustRepo.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Repositories\\CrustRepo.cs",
+              "RelativeToolTip": "Repositories\\CrustRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:46:42.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "SideRepo.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Repositories\\SideRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\SideRepo.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Repositories\\SideRepo.cs",
+              "RelativeToolTip": "Repositories\\SideRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:48:02.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "BooleanToVisibilityConverter.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Utilities\\BooleanToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Utilities\\BooleanToVisibilityConverter.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Utilities\\BooleanToVisibilityConverter.cs",
+              "RelativeToolTip": "WPFApp\\Utilities\\BooleanToVisibilityConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:02:31.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ConfigurationHelper.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Utilities\\ConfigurationHelper.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Utilities\\ConfigurationHelper.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Utilities\\ConfigurationHelper.cs",
+              "RelativeToolTip": "WPFApp\\Utilities\\ConfigurationHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:51:27.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "WindowService.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Services\\WindowService.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Services\\WindowService.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Services\\WindowService.cs",
+              "RelativeToolTip": "WPFApp\\Services\\WindowService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:02:27.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "IWindowService.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Services\\IWindowService.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Services\\IWindowService.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Services\\IWindowService.cs",
+              "RelativeToolTip": "WPFApp\\Services\\IWindowService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:02:26.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ToppingDAO.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\DataAccessLayer\\ToppingDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ToppingDAO.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\DataAccessLayer\\ToppingDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\ToppingDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:33:29.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ToppingService.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Services\\ToppingService.cs",
+              "RelativeDocumentMoniker": "Services\\ToppingService.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Services\\ToppingService.cs",
+              "RelativeToolTip": "Services\\ToppingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:39:34.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ToppingRepo.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Repositories\\ToppingRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\ToppingRepo.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\Repositories\\ToppingRepo.cs",
+              "RelativeToolTip": "Repositories\\ToppingRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:48:07.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "DrinkDAO.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\DataAccessLayer\\DrinkDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DrinkDAO.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\DataAccessLayer\\DrinkDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\DrinkDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:46:59.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "CrustDAO.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\DataAccessLayer\\CrustDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CrustDAO.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\DataAccessLayer\\CrustDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CrustDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:46:52.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ToppingsConverter.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Utilities\\ToppingsConverter.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Utilities\\ToppingsConverter.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Utilities\\ToppingsConverter.cs",
+              "RelativeToolTip": "WPFApp\\Utilities\\ToppingsConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:22:28.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "SizeToBooleanConverter.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Utilities\\SizeToBooleanConverter.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Utilities\\SizeToBooleanConverter.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Utilities\\SizeToBooleanConverter.cs",
+              "RelativeToolTip": "WPFApp\\Utilities\\SizeToBooleanConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:16:43.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Utilities\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Utilities\\RelayCommand.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Utilities\\RelayCommand.cs",
+              "RelativeToolTip": "WPFApp\\Utilities\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:10:46.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "NullToCheckedConverter.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Utilities\\NullToCheckedConverter.cs",
+              "RelativeDocumentMoniker": "WPFApp\\Utilities\\NullToCheckedConverter.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\Utilities\\NullToCheckedConverter.cs",
+              "RelativeToolTip": "WPFApp\\Utilities\\NullToCheckedConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:16:35.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "CustomerWindowViewModel.cs",
+              "DocumentMoniker": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\CustomerWindowViewModel.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ViewModels\\CustomerWindowViewModel.cs",
+              "ToolTip": "E:\\Study\\FPT\\PRN212\\PizzaProject\\WPFApp\\ViewModels\\CustomerWindowViewModel.cs",
+              "RelativeToolTip": "WPFApp\\ViewModels\\CustomerWindowViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:15:54.226Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 775,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

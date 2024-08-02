@@ -1,0 +1,249 @@
+﻿<Window x:Class="WPFApp.Views.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFApp.Views"
+        xmlns:customercontrols="clr-namespace:WPFApp.Custom_Controls"
+        xmlns:c="clr-namespace:WPFApp.Utilities"
+        mc:Ignorable="d"
+        Title="LoginWindow"
+        Height="450"
+        Width="400"
+        WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <c:BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+    </Window.Resources>
+    <Grid>
+        <StackPanel x:Name="LoginPanel"
+                    Background="#86cecb"
+                    Visibility="{Binding IsLoginVisible, Converter={StaticResource BooleanToVisibilityConverter}}">
+            <Image Height="100"
+                   Width="100"
+                   Margin="0,30,0,0"
+                   Source="/Images/Logo.jpg" />
+            <Label Content="PIZZA SHOP"
+                   HorizontalAlignment="Center"
+                   FontSize="24"
+                   Foreground="White" />
+            <Label Content="Email"
+                   HorizontalAlignment="Center"
+                   Foreground="White" />
+            <TextBox TextWrapping="Wrap"
+                     Width="160"
+                     Height="20"
+                     FontSize="14" 
+                     Text="{Binding Email}"/>
+            <Label Content="Password"
+                   HorizontalAlignment="Center"
+                   Foreground="White" />
+            <customercontrols:BindablePasswordBox Password="{Binding Password}"
+                                                  Height="20"
+                                                  Width="160">
+
+            </customercontrols:BindablePasswordBox>
+            <Button Content="Login"
+                    HorizontalAlignment="Center"
+                    Margin="0,20,0,0"
+                    Width="80"
+                    Height="20"
+                    Background="#e12885"
+                    Foreground="White"
+                    Command="{Binding LoginCommand}"/>
+            <Button Content="Sign up"
+                    HorizontalAlignment="Center"
+                    Width="80"
+                    Height="20"
+                    Margin="0,20,0,0"
+                    Background="#3aaeb5"
+                    Foreground="White"
+                    Command="{Binding ShowSignupCommand}" />
+
+        </StackPanel>
+        <StackPanel x:Name="SignupPanel"
+                    Background="#137a7f"
+                    Visibility="{Binding IsSignupVisible, Converter={StaticResource BooleanToVisibilityConverter}}">
+            <Image Height="100"
+                   Width="100"
+                   Margin="0,30,0,0"
+                   Source="/Images/Logo.jpg" />
+            <Label Content="PIZZA SHOP"
+                   HorizontalAlignment="Center"
+                   FontSize="24"
+                   FontWeight="Bold"
+                   Foreground="#cfc0b3"/>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="25" />
+                    <RowDefinition Height="40" />
+                    <RowDefinition Height="25" />
+                    <RowDefinition Height="40" />
+                    <RowDefinition Height="25" />
+                    <RowDefinition Height="40" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Label Content="Fullname"
+                       HorizontalAlignment="Center"
+                       Foreground="White"
+                       Grid.Column="0"
+                       Grid.Row="0" />
+                <TextBox x:Name="NameText" TextWrapping="Wrap"
+                         Width="160"
+                         Height="20"
+                         FontSize="14"
+                         Grid.Column="0"
+                         Grid.Row="1"
+                         Text="{Binding Fullname, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged}"
+                         Margin="20,0,20,20">
+                </TextBox>
+                <Label Content="{Binding ElementName=NameText, Path=(Validation.Errors)[0].ErrorContent}"
+                       HorizontalAlignment="Center"
+                       Foreground="Red"
+                       Grid.Row="1"
+                       Margin="0,15,0,5"
+                       VerticalContentAlignment="Center"
+                       HorizontalContentAlignment="Center"
+                       FontSize="9" />
+                <Label Content="Phone number"
+                       HorizontalAlignment="Center"
+                       Foreground="White"
+                       Grid.Column="1"
+                       Grid.Row="0" />
+                <TextBox x:Name="PhoneText" TextWrapping="Wrap"
+                         Width="160"
+                         Height="20"
+                         FontSize="14"
+                         Grid.Column="1"
+                         Grid.Row="1"
+                         Text="{Binding PhoneNumber, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged}"
+                         Margin="20,0,20,20" />
+                <Label Content="{Binding ElementName=PhoneText, Path=(Validation.Errors)[0].ErrorContent}"
+                       HorizontalAlignment="Center"
+                       Foreground="Red"
+                       Grid.Column="1"
+                       Grid.Row="1"
+                       Margin="0,15,0,5"
+                       VerticalContentAlignment="Center"
+                       HorizontalContentAlignment="Center"
+                       FontSize="9" />
+                <Label Content="Address"
+                       HorizontalAlignment="Center"
+                       Foreground="White"
+                       Grid.Column="0"
+                       Grid.Row="2" />
+                <TextBox x:Name="AddressText" TextWrapping="Wrap"
+                         Width="160"
+                         Height="20"
+                         FontSize="14"
+                         Grid.Column="0"
+                         Grid.Row="2"
+                         Text="{Binding Address, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged}"
+                         Margin="20,22,20,23"
+                         Grid.RowSpan="2" />
+                <Label Content="{Binding ElementName=AddressText, Path=(Validation.Errors)[0].ErrorContent}"
+                       HorizontalAlignment="Center"
+                       Foreground="Red"
+                       Grid.Column="0"
+                       Grid.Row="3"
+                       Margin="0,15,0,5"
+                       VerticalContentAlignment="Center"
+                       HorizontalContentAlignment="Center"
+                       FontSize="9" />
+                <Label Content="Email"
+                       HorizontalAlignment="Center"
+                       Foreground="White"
+                       Grid.Column="1"
+                       Grid.Row="2" />
+                <TextBox x:Name="EmailText" TextWrapping="Wrap"
+                         Width="160"
+                         Height="20"
+                         FontSize="14"
+                         Grid.Column="1"
+                         Grid.Row="2"
+                         Text="{Binding Email, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged}"
+                         Margin="20,22,20,23"
+                         Grid.RowSpan="2" />
+                <Label Content="{Binding ElementName=EmailText, Path=(Validation.Errors)[0].ErrorContent}"
+                       HorizontalAlignment="Center"
+                       Foreground="Red"
+                       Grid.Column="1"
+                       Grid.Row="3"
+                       Margin="0,15,0,5"
+                       VerticalContentAlignment="Center"
+                       HorizontalContentAlignment="Center"
+                       FontSize="9" />
+                <Label Content="Password"
+                       HorizontalAlignment="Center"
+                       Foreground="White"
+                       Grid.Column="0"
+                       Grid.Row="4" />
+                <customercontrols:BindablePasswordBox Password="{Binding Password, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged}"
+                                                      Height="20"
+                                                      Width="160"
+                                                      Grid.Column="0"
+                                                      Grid.Row="5"
+                                                      Margin="20,0,20,20" 
+                                                      x:Name="PasswordText"/>
+                <Label Content="{Binding ElementName=PasswordText, Path=(Validation.Errors)[0].ErrorContent}"
+                       HorizontalAlignment="Center"
+                       Foreground="Red"
+                       Grid.Column="0"
+                       Grid.Row="5"
+                       Margin="0,15,0,5"
+                       VerticalContentAlignment="Center"
+                       HorizontalContentAlignment="Center"
+                       FontSize="9" />
+                <Label Content="Password Confirm"
+                       HorizontalAlignment="Center"
+                       Foreground="White"
+                       Grid.Column="1"
+                       Grid.Row="4" />
+                <customercontrols:BindablePasswordBox Password="{Binding Repassword, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged}"
+                                                      Height="20"
+                                                      Width="160"
+                                                      Grid.Column="1"
+                                                      Grid.Row="5"
+                                                      Margin="20,0,20,20"
+                                                      x:Name="RepasswordText">
+
+                </customercontrols:BindablePasswordBox>
+                <Label Content="{Binding ElementName=RepasswordText, Path=(Validation.Errors)[0].ErrorContent}"
+                       HorizontalAlignment="Center"
+                       Foreground="Red"
+                       Grid.Column="1"
+                       Grid.Row="5"
+                       Margin="0,15,0,5"
+                       VerticalContentAlignment="Center"
+                       HorizontalContentAlignment="Center"
+                       FontSize="9" />
+
+            </Grid>
+            <StackPanel Orientation="Horizontal"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center">
+
+                <Button Content="Sign up"
+                        HorizontalAlignment="Center"
+                        Width="80"
+                        Height="20"
+                        Margin="0,20,10,0"
+                        Background="#e12885"
+                        Foreground="White"
+                        Command="{Binding SignupCommand}"/>
+                <Button Content="Back"
+                        HorizontalAlignment="Center"
+                        Margin="0,20,10,0"
+                        Width="80"
+                        Height="20"
+                        Background="#FFFF8383"
+                        Foreground="White"
+                        Command="{Binding ShowLoginCommand}" />
+            </StackPanel>
+
+
+        </StackPanel>
+    </Grid>
+</Window>

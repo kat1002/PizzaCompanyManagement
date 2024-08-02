@@ -1,0 +1,83 @@
+﻿<UserControl x:Class="WPFApp.Views.Dashboard"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:WPFApp.Views"
+             xmlns:cv="clr-namespace:WPFApp.Utilities"
+             mc:Ignorable="d"
+             d:DesignHeight="600"
+             d:DesignWidth="600">
+    <UserControl.Resources>
+        <cv:TotalPriceConverter x:Key="TotalPriceConverter"/>
+    </UserControl.Resources>
+    <Grid Background="White">
+        <DataGrid ItemsSource="{Binding Orders}"
+                  AutoGenerateColumns="False"
+                  Margin="10,136,10,0"
+                  Height="448"
+                  VerticalAlignment="Top"
+                  IsReadOnly="True"
+                  CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID"
+                                    Binding="{Binding Id}"
+                                    Width="*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Date"
+                                    Binding="{Binding OrderDate}"
+                                    Width="*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Time"
+                                    Binding="{Binding OrderTime}"
+                                    Width="*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Shipping Address"
+                                    Binding="{Binding ShippingAddress}"
+                                    Width="2*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Customer ID"
+                                    Binding="{Binding CustomerId}"
+                                    Width="*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Total Price"
+                                    Binding="{Binding .,Converter={StaticResource TotalPriceConverter}}"
+                                    Width="*"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Grid Margin="10,10,420,514"
+              Background="#137a7f"
+              Width="170">
+            <TextBlock HorizontalAlignment="Left"
+                       Margin="10,10,0,0"
+                       TextWrapping="Wrap"
+                       Text="Order"
+                       VerticalAlignment="Top"
+                       FontSize="18"
+                       Foreground="White" />
+            <TextBlock HorizontalAlignment="Center"
+                       Margin="0,15,0,0"
+                       TextWrapping="Wrap"
+                       Text="{Binding NumberOfOrders}"
+                       VerticalAlignment="Top"
+                       FontSize="18"
+                       Foreground="White" Width="32" />
+            <Image
+                   Margin="69,13,9,13" />
+        </Grid>
+        <Grid Margin="200,10,116,514"
+              Background="#86cecb">
+            <TextBlock HorizontalAlignment="Left"
+                       Margin="10,10,0,0"
+                       TextWrapping="Wrap"
+                       Text="Revenue"
+                       VerticalAlignment="Top"
+                       FontSize="18"
+                       Foreground="White" />
+            <TextBlock HorizontalAlignment="Left"
+                       TextWrapping="Wrap"
+                       Text="{Binding TotalOrderPrice}"
+                       VerticalAlignment="Top"
+                       Margin="91,10,0,0"
+                       FontSize="18"
+                       Foreground="White" Width="183" Height="52" />
+        </Grid>
+    </Grid>
+</UserControl>
+
+    

@@ -1,0 +1,87 @@
+﻿<UserControl x:Class="WPFApp.Views.ProductList"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+            xmlns:local="clr-namespace:WPFApp.Views"
+            xmlns:cv="clr-namespace:WPFApp.Utilities"
+             mc:Ignorable="d" 
+             d:DesignHeight="600"
+             d:DesignWidth="622">
+    <UserControl.Resources>
+        <cv:TotalPriceConverter x:Key="TotalPriceConverter"/>
+    </UserControl.Resources>
+    <Grid Background="White">
+        <TextBlock HorizontalAlignment="Left"
+               Margin="33,26,0,0"
+               TextWrapping="Wrap"
+               Text="Products"
+               VerticalAlignment="Top"
+               FontSize="36"
+               FontWeight="Bold" />
+
+        <Button Content="Crust"
+            HorizontalAlignment="Left"
+            Margin="260,78,0,0"
+            VerticalAlignment="Top"
+            Width="64"
+            FontSize="16"
+            Command="{Binding ShowCrustsCommand}"/>
+        <Button Content="Side"
+            HorizontalAlignment="Left"
+            Margin="162,78,0,0"
+            VerticalAlignment="Top"
+            Width="64"
+            FontSize="16"
+            Command="{Binding ShowSidesCommand}"/>
+        <Button Content="Drink"
+            HorizontalAlignment="Left"
+            Margin="59,78,0,0"
+            VerticalAlignment="Top"
+            Width="64"
+            FontSize="16"
+            Command="{Binding ShowDrinksCommand}"/>
+        <Button Content="Size"
+            HorizontalAlignment="Left"
+            Margin="359,78,0,0"
+            VerticalAlignment="Top"
+            Width="64"
+            FontSize="16"
+            Command="{Binding ShowSizesCommand}"/>
+        <DataGrid
+            x:Name="list"
+                ItemsSource="{Binding Data}"
+              Margin="10,110,10,186"
+              AutoGenerateColumns="True"
+              CanUserAddRows="False"
+              IsReadOnly="True"
+            SelectedItem="{Binding SelectedItem, Mode=TwoWay}">
+        </DataGrid>
+        <Button Content="Topping"
+            HorizontalAlignment="Left"
+            Margin="458,78,0,0"
+            VerticalAlignment="Top"
+            Width="64"
+            FontSize="16"
+            Command="{Binding ShowToppingsCommand}"/>
+        <TextBox x:Name = "pName" HorizontalAlignment="Left" Margin="10,443,0,0" TextWrapping="Wrap" Text="{Binding ProductName}" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name = "pPrice" HorizontalAlignment="Left" Margin="10,482,0,0" TextWrapping="Wrap" Text="{Binding ProductPrice}" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Create"
+            HorizontalAlignment="Left"
+            Margin="162,443,0,0"
+            VerticalAlignment="Top"
+            Width="64"
+            FontSize="16"
+            Command="{Binding CreateProduct}"/>
+        <Button Content="Update"
+            HorizontalAlignment="Left"
+            Margin="162,491,0,0"
+            VerticalAlignment="Top"
+            Width="64"
+            FontSize="16"
+            Command="{Binding UpdateProduct}"/>
+
+
+
+    </Grid>
+</UserControl>
